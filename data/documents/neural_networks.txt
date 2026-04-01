@@ -1,0 +1,24 @@
+Neural Networks and Deep Learning
+
+Neural networks are computing systems inspired by the biological neural networks in the human brain. They consist of interconnected nodes (neurons) organized in layers that process information using weighted connections. Neural networks learn by adjusting these weights based on training data.
+
+Architecture of a Neural Network:
+- Input Layer: Receives the raw data features.
+- Hidden Layers: Intermediate layers that process and transform the data. Deep neural networks have multiple hidden layers.
+- Output Layer: Produces the final prediction or classification.
+
+Each neuron applies an activation function to the weighted sum of its inputs. Common activation functions include:
+- ReLU (Rectified Linear Unit): f(x) = max(0, x). Most widely used in hidden layers.
+- Sigmoid: f(x) = 1/(1+e^(-x)). Used in binary classification output layers.
+- Softmax: Used in multi-class classification output layers.
+- Tanh: f(x) = (e^x - e^(-x))/(e^x + e^(-x)). Outputs values between -1 and 1.
+
+Key Deep Learning Architectures:
+
+1. Convolutional Neural Networks (CNNs): Designed for processing grid-like data such as images. They use convolutional layers with filters that detect features like edges, textures, and patterns. Key operations include convolution, pooling, and flattening. Applications include image classification, object detection, and facial recognition.
+
+2. Recurrent Neural Networks (RNNs): Designed for sequential data. They have feedback connections that allow information to persist. Variants include Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU), which solve the vanishing gradient problem. Applications include language modeling, machine translation, and speech recognition.
+
+3. Transformers: Introduced in the paper "Attention Is All You Need" (2017). They use self-attention mechanisms to process all positions in a sequence simultaneously, enabling parallelization. BERT, GPT, and T5 are transformer-based models that have achieved state-of-the-art results in natural language processing tasks.
+
+Training neural networks involves forward propagation (computing predictions), loss calculation (measuring error), and backpropagation (adjusting weights using gradient descent). Optimizers like Adam, SGD, and RMSprop control how weights are updated.

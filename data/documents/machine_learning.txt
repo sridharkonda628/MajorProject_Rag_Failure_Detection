@@ -1,0 +1,15 @@
+Machine Learning
+
+Machine learning is a subset of artificial intelligence that focuses on building systems that learn from data to improve their performance on a specific task without being explicitly programmed. It uses statistical techniques to give computers the ability to learn from experience.
+
+There are three main types of machine learning:
+
+1. Supervised Learning: The algorithm learns from labeled training data. It maps input features to known output labels. Common algorithms include linear regression, decision trees, random forests, support vector machines, and neural networks. Applications include email spam detection, image classification, and medical diagnosis.
+
+2. Unsupervised Learning: The algorithm finds patterns in unlabeled data without predefined outputs. Techniques include clustering (K-means, DBSCAN, hierarchical clustering), dimensionality reduction (PCA, t-SNE), and association rule learning. Applications include customer segmentation, anomaly detection, and recommendation systems.
+
+3. Reinforcement Learning: An agent learns to make decisions by performing actions in an environment and receiving rewards or penalties. Key concepts include the reward function, policy, value function, and Q-learning. Applications include game playing (AlphaGo), robotics, and autonomous driving.
+
+Deep learning is a subset of machine learning that uses artificial neural networks with multiple layers (deep neural networks). Key architectures include Convolutional Neural Networks (CNNs) for image processing, Recurrent Neural Networks (RNNs) for sequential data, and Transformers for natural language processing.
+
+Common challenges in machine learning include overfitting, underfitting, bias-variance tradeoff, data quality issues, and the need for large amounts of labeled data. Techniques like cross-validation, regularization, and data augmentation help address these challenges.

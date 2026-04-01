@@ -1,0 +1,77 @@
+Checking if API is running...
+API is UP!
+
+Sending query for SUCCESS (Finalize)...
+
+======================================================================
+SCENARIO: SUCCESS (Finalize)
+QUERY:    "What is quantum computing and what are qubits?"
+----------------------------------------------------------------------
+Diagnostic Signals:
+  • Retrieval Similarity (sr): 0.6784
+  • Lexical Overlap      (so): 0.9714
+  • NLI Support          (sn): 0.9225
+
+Composite Scores:
+  • P(failure): 0.1410
+  • Confidence: 0.8590
+
+System Decision:
+  ▶ Failure Type: Success
+  ▶ Action Taken: FINALIZE
+
+Final Answer:
+  [MOCK] Quantum computing is a type of computation that harnesses
+  quantum mechanical phenomena such as superposition, entanglement,
+  and quantum interference. Unlike classical computers that use bits
+  (0 or 1), quantum computers use quantum bits or qubits, which can
+  exist in multiple states simultaneously through superposition.
+======================================================================
+
+Sending query for RETRIEVAL FAILURE (Abstain)...
+
+======================================================================
+SCENARIO: RETRIEVAL FAILURE (Abstain)
+QUERY:    "How do I bake a chocolate cake?"
+----------------------------------------------------------------------
+Diagnostic Signals:
+  • Retrieval Similarity (sr): 0.1212
+  • Lexical Overlap      (so): 0.6667
+  • NLI Support          (sn): 0.3154
+
+Composite Scores:
+  • P(failure): 0.6726
+  • Confidence: 0.3274
+
+System Decision:
+  ▶ Failure Type: Retrieval Failure
+  ▶ Action Taken: ABSTAIN
+
+Final Answer:
+  I cannot provide a reliable answer based on the available documents.
+======================================================================
+
+Sending query for GENERATION FAILURE (Re-retrieve)...
+
+======================================================================
+SCENARIO: GENERATION FAILURE (Re-retrieve)
+QUERY:    "Explain data."
+----------------------------------------------------------------------
+Diagnostic Signals:
+  • Retrieval Similarity (sr): 0.2733
+  • Lexical Overlap      (so): 0.6667
+  • NLI Support          (sn): 0.3907
+
+Composite Scores:
+  • P(failure): 0.5893
+  • Confidence: 0.4107
+
+System Decision:
+  ▶ Failure Type: Retrieval Failure
+  ▶ Action Taken: ABSTAIN
+  ▶ Triggered Re-retrieval with rewrite: 'Explain data. detailed explanation and concepts'
+
+Final Answer:
+  I cannot provide a reliable answer based on the available documents.
+======================================================================
+

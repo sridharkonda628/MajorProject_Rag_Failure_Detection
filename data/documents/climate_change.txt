@@ -1,0 +1,16 @@
+Climate Change
+
+Climate change refers to long-term shifts in global temperatures and weather patterns. While climate change can occur naturally through volcanic eruptions, solar cycles, and orbital variations, human activities have been the primary driver since the Industrial Revolution, mainly through the burning of fossil fuels such as coal, oil, and natural gas.
+
+The greenhouse effect is the fundamental mechanism behind climate change. Greenhouse gases like carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and fluorinated gases trap heat in the Earth's atmosphere. The concentration of CO2 in the atmosphere has increased from about 280 parts per million (ppm) before the Industrial Revolution to over 420 ppm today.
+
+Key impacts of climate change include:
+- Rising global temperatures: The Earth's average surface temperature has risen by approximately 1.1 degrees Celsius since the late 19th century.
+- Melting ice caps and glaciers: Arctic sea ice has declined by about 13% per decade since 1979.
+- Sea level rise: Global sea levels have risen about 20 centimeters since 1900 and are accelerating.
+- Extreme weather events: Increased frequency and intensity of heat waves, droughts, floods, and hurricanes.
+- Ocean acidification: The ocean has absorbed about 30% of human-produced CO2, leading to a 26% increase in acidity.
+
+The Paris Agreement, adopted in 2015, aims to limit global warming to well below 2 degrees Celsius above pre-industrial levels, with efforts to limit it to 1.5 degrees. Countries commit to nationally determined contributions (NDCs) to reduce emissions.
+
+Mitigation strategies include transitioning to renewable energy sources (solar, wind, hydroelectric), improving energy efficiency, carbon capture and storage, reforestation, and sustainable agriculture practices.

@@ -1,0 +1,18 @@
+Photosynthesis
+
+Photosynthesis is the biological process by which green plants, algae, and certain bacteria convert light energy, usually from the sun, into chemical energy stored in glucose. This process is fundamental to life on Earth as it produces oxygen and organic compounds that form the base of most food chains.
+
+The overall equation for photosynthesis is:
+6CO2 + 6H2O + light energy → C6H12O6 + 6O2
+
+Photosynthesis occurs primarily in the chloroplasts of plant cells, which contain the green pigment chlorophyll. Chlorophyll absorbs light most efficiently in the blue (430-450 nm) and red (640-680 nm) wavelengths, reflecting green light, which is why plants appear green.
+
+The process consists of two main stages:
+
+1. Light-Dependent Reactions (Light Reactions): These occur in the thylakoid membranes of the chloroplast. Light energy is captured by chlorophyll and converted into chemical energy in the form of ATP and NADPH. Water molecules are split (photolysis), releasing oxygen as a byproduct. The two photosystems, Photosystem I and Photosystem II, work together in the electron transport chain.
+
+2. Light-Independent Reactions (Calvin Cycle): These occur in the stroma of the chloroplast. The ATP and NADPH produced in the light reactions are used to fix carbon dioxide into organic molecules through the Calvin cycle. The enzyme RuBisCO catalyzes the first step, combining CO2 with ribulose bisphosphate (RuBP) to eventually produce glucose.
+
+Factors affecting photosynthesis rate include light intensity, carbon dioxide concentration, temperature, and water availability. C4 and CAM plants have evolved adaptations to photosynthesize more efficiently in hot and dry environments.
+
+Photosynthesis is responsible for producing approximately 115 billion metric tons of organic carbon per year. It also maintains atmospheric oxygen levels at approximately 21%, which is essential for aerobic organisms.

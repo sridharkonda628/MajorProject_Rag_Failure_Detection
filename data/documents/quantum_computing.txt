@@ -1,0 +1,15 @@
+Quantum Computing
+
+Quantum computing is a type of computation that harnesses quantum mechanical phenomena such as superposition, entanglement, and quantum interference. Unlike classical computers that use bits (0 or 1), quantum computers use quantum bits or qubits, which can exist in multiple states simultaneously through superposition.
+
+A qubit can represent both 0 and 1 at the same time, allowing quantum computers to process vast amounts of information in parallel. When qubits become entangled, the state of one qubit is directly correlated with the state of another, regardless of the distance between them.
+
+Key quantum computing concepts include:
+- Superposition: A qubit can be in a combination of states 0 and 1 simultaneously.
+- Entanglement: Quantum particles become interconnected and the state of one instantly influences the other.
+- Quantum gates: Operations that manipulate qubits, analogous to logic gates in classical computing.
+- Quantum decoherence: The loss of quantum behavior due to interaction with the environment, which is a major challenge.
+
+Major quantum computing platforms include IBM Quantum, Google's Sycamore processor, and D-Wave's quantum annealers. In 2019, Google claimed quantum supremacy when its Sycamore processor performed a calculation in 200 seconds that would take a classical supercomputer approximately 10,000 years.
+
+Applications of quantum computing include cryptography, drug discovery, optimization problems, financial modeling, and machine learning. Quantum computers are particularly well-suited for simulating molecular and chemical reactions, which could revolutionize pharmaceutical research.

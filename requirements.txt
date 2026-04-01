@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+transformers
+torch
+google-genai
+numpy
+scikit-learn
+python-dotenv
+streamlit
+requests
+pydantic
